@@ -1,9 +1,9 @@
 # Gray-scale-Morphology-Real-Time-Bone-Fracture-Detection
-## Aim:
-To represent the bone fracture detection using Gray Scale Morphology.
 
 ### DEVELOPED BY: SYED ABBU REHAN
 ### REGISTER NUMBER : 212223240165
+## Aim:To represent the bone fracture detection using Gray Scale Morphology.
+
 ## PROGRAM:
 ```
 import cv2
